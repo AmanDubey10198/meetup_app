@@ -114,7 +114,7 @@
 </script>
 
 <svelte:head>
-  <title>Meet ups</title>
+  <title>Meet up</title>
 </svelte:head>
 
 {#if error}
